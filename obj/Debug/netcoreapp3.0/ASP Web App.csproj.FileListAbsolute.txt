@@ -1,0 +1,18 @@
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\appsettings.Development.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\appsettings.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.exe
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.csprojAssemblyReference.cache
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\staticwebassets\ASP Web App.StaticWebAssets.Manifest.cache
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\staticwebassets\ASP Web App.StaticWebAssets.xml
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.AssemblyInfoInputs.cache
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.AssemblyInfo.cs
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.RazorTargetAssemblyInfo.cache
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.deps.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.runtimeconfig.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.runtimeconfig.dev.json
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.dll
+X:\Workspace\NET\ASP Web App\bin\Debug\netcoreapp3.0\ASP Web App.pdb
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.MvcApplicationPartsAssemblyInfo.cache
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.dll
+X:\Workspace\NET\ASP Web App\obj\Debug\netcoreapp3.0\ASP Web App.pdb
